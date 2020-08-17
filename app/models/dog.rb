@@ -7,5 +7,5 @@ class Dog
     self.breed = breed
     self.age = age
   end
-  
+
 end
